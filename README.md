@@ -5,7 +5,7 @@ https://github.com/TheSpeedX/PROXY-List
 
 # Usage
 
-All You have to do is to clone this repo where you want to use it and then import the function directly.
+### All You have to do is to clone this repo where you want to use it and then import the function directly.
 
 # Proxychains
 ### A great tool used to redirect your connection from many proxies. Amigo is mainly designed to do find proxies for this tool. Make sure to check this tool out
